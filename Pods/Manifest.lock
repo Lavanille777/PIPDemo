@@ -1,0 +1,40 @@
+PODS:
+  - LookinServer (1.1.7):
+    - LookinServer/Core (= 1.1.7)
+  - LookinServer/Core (1.1.7)
+  - RxCocoa (6.5.0):
+    - RxRelay (= 6.5.0)
+    - RxSwift (= 6.5.0)
+  - RxRelay (6.5.0):
+    - RxSwift (= 6.5.0)
+  - RxSwift (6.5.0)
+  - SnapKit (5.6.0)
+  - TYSnapshotScroll (0.4.0)
+
+DEPENDENCIES:
+  - LookinServer
+  - RxCocoa
+  - RxSwift
+  - SnapKit
+  - TYSnapshotScroll
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - LookinServer
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SnapKit
+    - TYSnapshotScroll
+
+SPEC CHECKSUMS:
+  LookinServer: 4ce0469b066871525611d009d8d16a7a50c23491
+  RxCocoa: 94f817b71c07517321eb4f9ad299112ca8af743b
+  RxRelay: 1de1523e604c72b6c68feadedd1af3b1b4d0ecbd
+  RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  TYSnapshotScroll: 5a50ba497e344fbf7229083bdc590ba4cad340be
+
+PODFILE CHECKSUM: 5dfe33dd8f370ab3e14263cb63f6aa8b4096e6aa
+
+COCOAPODS: 1.12.1
